@@ -1,0 +1,15 @@
+theme: minima
+title: 草うさぎのサイト
+description: コンビVTuberのポケカ記録
+
+plugins:
+ - jekyll-sitemap
+ - jekyll-seo-tag
+ 
+google_analytics: G-2R7TGLQFBN
+
+minima:
+  social_links:
+    twitter: Kusa_Usagi
+    youtube_channel: UCQAGqfc_0fzzaPQLeR-lxtQ
+    youtube_channel_name: W-Rabits
