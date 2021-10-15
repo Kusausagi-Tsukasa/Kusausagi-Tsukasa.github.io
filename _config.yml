@@ -6,7 +6,7 @@ plugins:
  - jekyll-sitemap
  - jekyll-seo-tag
  
-google_analytics: G-2R7TGLQFBN
+google_analytics: G-6XX7ZTF1H8
 
 minima:
   social_links:
