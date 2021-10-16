@@ -12,7 +12,7 @@
 
 ### とうタイプ
 
-- [連撃ウーラオス](Rapid_Urshifu,md)
+- [連撃ウーラオス](Rapid_Urshifu.md)
 
 ### はがねタイプ
 
