@@ -12,21 +12,21 @@
 
 ### とうタイプ
 
-- [連撃ウーラオス](Rapid_Urshifu.md)
+- [連撃ウーラオスVMAX](Rapid_Urshifu.md)
 
 ### はがねタイプ
 
-- [ジュラルドン（鋼軸）](Steel_Duraludon.md)
+- [ジュラルドンVMAX](Steel_Duraludon.md)
 
 ### あくタイプ
 
 ### ちょうタイプ
 
 - [ドラパルト（フュージョン）](Fusion_dragapult.md)
-- [ミュウ（フュージョン）](Fusion_mew.md)
+- [ミュウVMAX（フュージョン）](Fusion_mew.md)
 
 ### ドラゴンタイプ
 
 ### むしょくタイプ
 
-- [ヨクバリス（まるもうけ）](Greedent.md)
+- [ヨクバリスVMAX（まるもうけ）](Greedent.md)
