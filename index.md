@@ -3,7 +3,7 @@ description: ポケカ系VTuberの草うさぎがポケカやVR（予定）に�
 lang: ja_JP
 ---
 
-# このサイトについて
+# はじめに
 
 このサイトは主にポケモンカードについての記事をあげています．
 
@@ -14,7 +14,7 @@ lang: ja_JP
 
 ***
 
-# [はじめに](homepage.md)
+# [このページについて](homepage.md)
 
 # [ポケモンカードデッキレシピ](Deck/recipeHome.md)
 
