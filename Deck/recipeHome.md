@@ -12,6 +12,8 @@
 
 ### とうタイプ
 
+- [連撃ウーラオス](Rapid_Urshifu,md)
+
 ### はがねタイプ
 
 - [ジュラルドン（鋼軸）](Steel_Duraludon.md)
