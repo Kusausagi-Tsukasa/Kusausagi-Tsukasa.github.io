@@ -12,6 +12,8 @@ lang: ja_JP
 
 このサイトの管理人については[こちら](homepage.md)
 
+***
+
 # [はじめに](homepage.md)
 
 # [ポケモンカードデッキレシピ](Deck/recipeHome.md)
