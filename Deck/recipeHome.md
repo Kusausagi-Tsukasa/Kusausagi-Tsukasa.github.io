@@ -51,5 +51,4 @@
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg" width="480px">
 
-![ヨクバリスVMAX](https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg)
 - [ヨクバリスVMAX（まるもうけ）](Greedent.md)
