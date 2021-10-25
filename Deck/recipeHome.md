@@ -23,6 +23,7 @@
 ### ちょうタイプ
 
 - [ドラパルト（フュージョン）](Fusion_dragapult.md)
+- [ドラパルトVMAX](Dragapult.md)
 - [ミュウVMAX（フュージョン）](Fusion_mew.md)
 
 ### ドラゴンタイプ
