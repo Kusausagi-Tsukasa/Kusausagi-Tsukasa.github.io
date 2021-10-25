@@ -43,14 +43,13 @@
 
 ### ドラゴンタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038770_P_MUGENDAINAVMAX.jpg" width="480px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S7D/039718_P_JURARUDONVMAX.jpg" width="480px">
 
-![](https://www.pokemon-card.com/assets/images/card_images/large/S7D/039718_P_JURARUDONVMAX.jpg)
 - [ジュラルドンVMAX](Steel_Duraludon.md)
 
 ### むしょくタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038770_P_MUGENDAINAVMAX.jpg" width="480px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg" width="480px">
 
 ![ヨクバリスVMAX](https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg)
 - [ヨクバリスVMAX（まるもうけ）](Greedent.md)
