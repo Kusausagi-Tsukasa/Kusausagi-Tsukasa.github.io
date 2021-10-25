@@ -20,6 +20,9 @@
 
 ### あくタイプ
 
+![ムゲンダイナ](https://www.pokemon-card.com/assets/images/card_images/large/S4a/038770_P_MUGENDAINAVMAX.jpg)
+- [ムゲンダイナVMAX](Eternatus.md)
+
 ### ちょうタイプ
 
 ![フュージョンドラパルト](https://www.pokemon-card.com/assets/images/card_images/large/S8/040013_P_DORAPARUTO.jpg)
