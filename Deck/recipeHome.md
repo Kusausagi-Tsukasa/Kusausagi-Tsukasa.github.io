@@ -52,3 +52,7 @@
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg" width="480px">
 
 - [ヨクバリスVMAX（まるもうけ）](Greedent.md)
+
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040986_P_ARUSEUSUVSTAR.jpg" width="480px">
+
+- [アルセウスVSTAR](Arceus.md)
