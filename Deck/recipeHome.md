@@ -12,7 +12,7 @@
 
 ### とうタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S5R/039181_P_RENGEKIURAOSUVMAX.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S5R/039181_P_RENGEKIURAOSUVMAX.jpg" width="240px">
 
 - [連撃ウーラオスVMAX](Rapid_Urshifu.md)
 
@@ -21,43 +21,43 @@
 
 ### あくタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038770_P_MUGENDAINAVMAX.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038770_P_MUGENDAINAVMAX.jpg" width="240px">
 
 - [ムゲンダイナVMAX](Eternatus.md)
 
 ### ちょうタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038722_P_POTTODESU.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038722_P_POTTODESU.jpg" width="240px">
 
 - [マッドパーティ](MadParty.md)
 
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040013_P_DORAPARUTO.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040013_P_DORAPARUTO.jpg" width="240px">
 
 - [ドラパルト（フュージョン）](Fusion_dragapult.md)
 
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038734_P_DORAPARUTOVMAX.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038734_P_DORAPARUTOVMAX.jpg" width="240px">
 
 - [ドラパルトVMAX](Dragapult.md)
 
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040002_P_MYUUVMAX.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040002_P_MYUUVMAX.jpg" width="240px">
 
 - [ミュウVMAX（フュージョン）](Fusion_mew.md)
 
 ### ドラゴンタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S7D/039718_P_JURARUDONVMAX.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S7D/039718_P_JURARUDONVMAX.jpg" width="240px">
 
 - [ジュラルドンVMAX](Steel_Duraludon.md)
 
 ### むしょくタイプ
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040048_P_YOKUBARISUVMAX.jpg" width="240px">
 
 - [ヨクバリスVMAX（まるもうけ）](Greedent.md)
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040986_P_ARUSEUSUVSTAR.jpg" width="360px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040986_P_ARUSEUSUVSTAR.jpg" width="240px">
 
 - [アルセウスVSTAR](Arceus.md)
