@@ -27,6 +27,11 @@
 
 ### ちょうタイプ
 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038722_P_POTTODESU.jpg" width="360px">
+
+- [マッドパーティ](MadParty.md)
+
+
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040013_P_DORAPARUTO.jpg" width="360px">
 
 - [ドラパルト（フュージョン）](Fusion_dragapult.md)
