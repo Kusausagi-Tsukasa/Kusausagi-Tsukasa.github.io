@@ -27,6 +27,10 @@
 
 ### ちょうタイプ
 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040684_P_KOKUBABADOREKKUSUVMAX.jpg" width="240px">
+
+- [こくばバドレックスVMAX](ShadowCalyrex.md)
+
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038722_P_POTTODESU.jpg" width="240px">
 
 - [マッドパーティ](MadParty.md)
