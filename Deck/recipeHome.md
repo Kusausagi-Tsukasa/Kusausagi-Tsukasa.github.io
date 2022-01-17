@@ -6,7 +6,15 @@
 
 ### みずタイプ
 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040609_P_HAKUBABADOREKKUSUVMAX.jpg" width="240px">
+
+- [はくばバドレックスVMAX](IceCalyrex.md)
+
 ### ほのおタイプ
+
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040917_P_RIZADONVSTAR.jpg" width="240px">
+
+- [リザードンVSTAR](CharizardVSTAR.md)
 
 ### かみなりタイプ
 
