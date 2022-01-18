@@ -9,14 +9,39 @@ __アルセウスVSTARバレット__
 [![](https://img.youtube.com/vi/assLWJBY8IY/0.jpg)](https://www.youtube.com/watch?v=assLWJBY8IY)
 
 ***
-<!-- 
-__ドラパルトルナアーラ__
 
-![ドラルナレシピ](https://i.imgur.com/xav14p5.png)
+__リザードンVSTARアルセウスVSTAR__
 
-デッキコード：MpySUS-YJxSvS-MyU3yp
+![リザードンアルセウスレシピ](https://i.imgur.com/pIxxEnA.png)
+
+デッキコード：8xcJxx-dt5DEA-88Jc8c
 
 紹介動画はこちら
 
-[![](https://img.youtube.com/vi/7jHWvFVzMnM/0.jpg)](https://www.youtube.com/watch?v=7jHWvFVzMnM)
--->
+[![](https://img.youtube.com/vi/gx1qyF5_Wcw/0.jpg)](https://www.youtube.com/watch?v=gx1qyF5_Wcw)
+
+***
+
+__はくばVMAXアルセウスVSTAR__
+
+![はくばアルセウスレシピ](https://i.imgur.com/lj9wGkz.png)
+
+デッキコード：pyMRpp-DQOe5w-MySRXM
+
+紹介動画はこちら
+
+[![](https://img.youtube.com/vi/3BPNrfyMIPk/0.jpg)](https://www.youtube.com/watch?v=3BPNrfyMIPk)
+
+***
+
+__ライチュウVアルセウスVSTAR__
+
+![ライチュウアルセウスレシピ](https://i.imgur.com/V5SAdD6.png)
+
+デッキコード：NNLPnL-tUI5lU-nnLQgN
+
+紹介動画はこちら
+
+[![](https://img.youtube.com/vi/tCOwtaId504/0.jpg)](https://www.youtube.com/watch?v=tCOwtaId504)
+
+***
