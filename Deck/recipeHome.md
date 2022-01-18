@@ -23,6 +23,10 @@
 
 
 <details><summary>かみなりタイプ</summary>
+  
+  <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040936_P_RAICHIXYUUV.jpg" width="240px">
+
+  - [ライチュウV](RaichuV.md)
 
 </details>
 
