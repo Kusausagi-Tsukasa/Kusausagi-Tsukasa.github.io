@@ -2,7 +2,11 @@
 
 ## デッキタイプ
 <details><summary>くさタイプ</summary><div>
+  
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040915_P_SHIEIMIVSTAR.jpg" width="240px">
 
+- [シェイミVSTAR](Shaymin.md)
+  
 </div></details>
 
 
