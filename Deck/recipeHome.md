@@ -5,7 +5,7 @@
   
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040915_P_SHIEIMIVSTAR.jpg" width="240px">
 
-- [シェイミVSTAR](Shaymin.md)
+[シェイミVSTAR](Shaymin.md)
   
 </div></details>
 
@@ -15,7 +15,7 @@
   
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040609_P_HAKUBABADOREKKUSUVMAX.jpg" width="240px">
 
-- [はくばバドレックスVMAX](IceCalyrex.md)
+(IceCalyrex.md)
   
 </div></details>
 
