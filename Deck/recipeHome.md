@@ -42,6 +42,7 @@
 
 
 <details><summary>とうタイプ</summary><div>
+
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S5R/039181_P_RENGEKIURAOSUVMAX.jpg" width="240px">
 
 - [連撃ウーラオスVMAX](Rapid_Urshifu.md)
