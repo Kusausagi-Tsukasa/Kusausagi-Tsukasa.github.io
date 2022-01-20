@@ -15,7 +15,7 @@
   
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040609_P_HAKUBABADOREKKUSUVMAX.jpg" width="240px">
 
-[](IceCalyrex.md)
+[はくばバドレックスVMAX](IceCalyrex.md)
   
 </div></details>
 
