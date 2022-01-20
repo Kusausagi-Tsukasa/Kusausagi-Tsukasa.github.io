@@ -24,9 +24,9 @@
 
 <details><summary>かみなりタイプ</summary>
   
-  <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040936_P_RAICHIXYUUV.jpg" width="240px">
+ <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040936_P_RAICHIXYUUV.jpg" width="240px">
 
-  - [ライチュウV](RaichuV.md)
+ - [ライチュウV](RaichuV.md)
 
 </details>
 
@@ -53,7 +53,7 @@
 
 <details><summary>ちょうタイプ</summary>
 
-  <img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040684_P_KOKUBABADOREKKUSUVMAX.jpg" width="240px">
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040684_P_KOKUBABADOREKKUSUVMAX.jpg" width="240px">
 
 - [こくばバドレックスVMAX](ShadowCalyrex.md)
 
