@@ -1,75 +1,76 @@
 # ポケモンカードデッキレシピ
 
 ## デッキタイプ
-<details><summary>くさタイプ</summary><div>
+
+### くさタイプ
   
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040915_P_SHIEIMIVSTAR.jpg" width="240px">
 
 [シェイミVSTAR](Shaymin.md)
   
-</div></details>
+
+---
 
 
-
-<details><summary>みずタイプ</summary><div>
+### みずタイプ
   
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040609_P_HAKUBABADOREKKUSUVMAX.jpg" width="240px">
 
 [はくばバドレックスVMAX](IceCalyrex.md)
   
-</div></details>
 
 
+---
 
-<details><summary>ほのおタイプ</summary><div>
+### ほのおタイプ
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040917_P_RIZADONVSTAR.jpg" width="240px">
 
 - [リザードンVSTAR](CharizardVSTAR.md)
 
-</div></details>
 
 
+---
 
-<details><summary>かみなりタイプ</summary><div>
+### かみなりタイプ
   
  <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040936_P_RAICHIXYUUV.jpg" width="240px">
 
  - [ライチュウV](RaichuV.md)
 
-</div></details>
 
 
+---
 
-<details><summary>とうタイプ</summary><div>
+### とうタイプ
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S5R/039181_P_RENGEKIURAOSUVMAX.jpg" width="240px">
 
 - [連撃ウーラオスVMAX](Rapid_Urshifu.md)
 
-</div></details>
-  
-  
-  
-  
-<details><summary>はがねタイプ</summary><div>
 
-</div></details>
   
   
+---
+  
+### はがねタイプ
+
+
   
   
-<details><summary>あくタイプ</summary><div>
+---
+  
+### あくタイプ
   
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038770_P_MUGENDAINAVMAX.jpg" width="240px">
 
 - [ムゲンダイナVMAX](Eternatus.md)
 
-</div></details>
 
 
+---
 
-<details><summary>ちょうタイプ</summary><div>
+### ちょうタイプ
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040684_P_KOKUBABADOREKKUSUVMAX.jpg" width="240px">
 
@@ -94,21 +95,22 @@
 
 - [ミュウVMAX（フュージョン）](Fusion_mew.md)
 
-</div></details>
 
 
+---
   
-<details><summary>ドラゴンタイプ</summary><div>
+### ドラゴンタイプ
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S7D/039718_P_JURARUDONVMAX.jpg" width="240px">
 
 - [ジュラルドンVMAX](Steel_Duraludon.md)
 
-</div></details>
+
+ 
+ 
+---
   
-  
-  
-<details><summary>むしょくタイプ</summary><div>
+### むしょくタイプ
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040986_P_ARUSEUSUVSTAR.jpg" width="240px">
 
@@ -118,4 +120,4 @@
 
 - [ヨクバリスVMAX（まるもうけ）](Greedent.md)
 
-</div></details>
+---
