@@ -106,7 +106,11 @@
 - [ジュラルドンVMAX](Steel_Duraludon.md)
 
 
- 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040787_P_REKKUUZAVMAX.jpg" width="240px">
+
+- [レックウザVMAX](Rayquaza.md)
+
+
  
 ---
   
