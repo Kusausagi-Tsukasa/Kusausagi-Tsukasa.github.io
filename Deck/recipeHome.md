@@ -111,7 +111,9 @@ layout: default
 
 - [ミュウVMAX（フュージョン）](Fusion_mew.md)
 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8b/040221_P_KARAMANERO.jpg" width="240px">
 
+- [カラマネロ(れんげきテンタクル)](Malamar.md)
 
 ---
   
