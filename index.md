@@ -18,5 +18,7 @@ lang: ja_JP
 
 # [ポケモンカードデッキレシピ](Deck/recipeHome.md)
 
+#　[ポケモンカード解説](Explanation.md)
+
 ***
 ここから下は管理人である我の日記です．
