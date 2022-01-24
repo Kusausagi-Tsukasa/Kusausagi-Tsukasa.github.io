@@ -92,15 +92,6 @@ layout: default
 
 - [こくばバドレックスVMAX](ShadowCalyrex.md)
 
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038722_P_POTTODESU.jpg" width="240px">
-
-- [マッドパーティ](MadParty.md)
-
-
-<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040013_P_DORAPARUTO.jpg" width="240px">
-
-- [ドラパルト（フュージョン）](Fusion_dragapult.md)
-
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038734_P_DORAPARUTOVMAX.jpg" width="240px">
 
@@ -110,6 +101,17 @@ layout: default
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040002_P_MYUUVMAX.jpg" width="240px">
 
 - [ミュウVMAX（フュージョン）](Fusion_mew.md)
+
+
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S4a/038722_P_POTTODESU.jpg" width="240px">
+
+- [マッドパーティ](MadParty.md)
+
+
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S8/040013_P_DORAPARUTO.jpg" width="240px">
+
+- [ドラパルト（フュージョン）](Fusion_dragapult.md)
+
 
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S8b/040221_P_KARAMANERO.jpg" width="240px">
 
