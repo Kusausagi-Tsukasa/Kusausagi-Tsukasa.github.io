@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "jp" }}">
 
   {%- include head.html -%}
 
@@ -8,9 +8,16 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-	<div class="wrapper">
-        	{{ content }}
-      	</div>
+	<div style="display:flex;height:100vh;">
+		<div style="flex-grow:1;
+			padding: 1em;
+			background-color:#FEE">
+			ここがサイドバーです。
+		</div>
+		<div class="wrapper">
+        		{{ content }}
+      		</div>
+	</div>
     </main>
 
     {%- include footer.html -%}
