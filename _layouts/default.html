@@ -8,18 +8,9 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <DIV style="display:flex;height:100vh;">
-			<DIV style="flex-grow:1;
-				padding: 1em;
-				background-color:#FEE">
-        {{mysidebar}}
-			</DIV>
-			<DIV style="flex-grow:3;
-				padding: 1em;
-				background:#EFF">
-        {{ content }}
-			</DIV>
-		</DIV>
+	<div class="wrapper">
+        	{{ content }}
+      	</div>
     </main>
 
     {%- include footer.html -%}
