@@ -1,6 +1,7 @@
 ---
 description: ポケカ系VTuberの草うさぎがポケカやVR（予定）について書くサイトです
 lang: ja_JP
+layout: default
 ---
 
 # はじめに
