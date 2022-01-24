@@ -9,12 +9,12 @@
 
     <main class="page-content" aria-label="Content">
 	<div style="display:flex;height:100vh;">
+		<div class="side">
+  			{%- include sidebar.html -%}
+		</div>
 		<div class="wrapper">
         		{{ content }}
       		</div>
-		<div class="side">
-  			  {%- include sidebar.html -%}
-		</div>
 	</div>
     </main>
 
