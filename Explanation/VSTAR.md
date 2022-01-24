@@ -14,11 +14,11 @@ layout: default
 本日10月20日にポケモンカード公式が25周年の記念動画を公開しました 
 そしてその動画の中にはこちらのロゴとともにアルセウスのカードが出てきました 
 
-![VSTARRogo](https://i.imgur.com/UYPlxDs.jpg)
+<img src="https://i.imgur.com/UYPlxDs.jpg" width="240px">
 
 なんとこちら今までに出て来たことがないポケモンブイスターのポケモンです
 
-![アルセウスVSTAR](https://i.imgur.com/qXw2hbx.png)
+<img src="https://i.imgur.com/qXw2hbx.png" width="240px">
 
 性能はこのようになっていてまず名前がアルセウスVSTARとなっています
 VSTARの特徴としては左上にも書いてある通りV進化ということでアルセウスVから進化して場に出すようです
@@ -58,11 +58,11 @@ __めっちゃくちゃ強いです__
 
 そして VSTARは先ほども述べたようにポケモンVから進化するので進化前のアルセウスVも公開されていました
 
-![アルセウスV](https://i.imgur.com/ccbW6N9.png)
+<img src="https://i.imgur.com/ccbW6N9.png" width="240px">
 
 こちらは以前から公開されていたポケモンアルセウスレジェンドに特典として封入されているものと全く同じ性能のカードとなります
 
-![アルセウスVSA](https://www.pokemon.co.jp/ex/legends_arceus/assets/img/pages/lineup/210818_03/img_01.png)
+<img src="https://www.pokemon.co.jp/ex/legends_arceus/assets/img/pages/lineup/210818_03/img_01.png" width="600px">
 
 ですのでゲーム側の購入をしていないよという方も安心してアルセウス V またはVSTARを使えるわけですね 
 まさかアルセウスVが公開された当初はアルセウス V MAX も来るのかなぐらいに思っていたわけですが新システムが追加されるとは思いもよりませんでしたね
