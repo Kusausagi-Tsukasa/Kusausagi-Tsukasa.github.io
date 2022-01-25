@@ -6,4 +6,4 @@ layout: default
 
 ## 目次 <!-- omit in toc -->
 
-### VSTAR解説
+### [VSTAR解説](VSTAR.md)
