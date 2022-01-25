@@ -66,6 +66,9 @@ layout: default
 - [連撃ウーラオスVMAX](Rapid_Urshifu.md)
 
 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040957_P_RUKARIO.jpg" width="240px">
+
+- [ルカリオ（たけるとうき）](Lucario.md)
   
   
 ---
