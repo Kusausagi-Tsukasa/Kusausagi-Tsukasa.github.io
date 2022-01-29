@@ -85,7 +85,9 @@ layout: default
 
 - [ムゲンダイナVMAX](Eternatus.md)
 
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040731_P_GARARUFUAIYAV.jpg" width="240px">
 
+- [ガラルファイヤーV](Moltres.md)
 
 ---
 
