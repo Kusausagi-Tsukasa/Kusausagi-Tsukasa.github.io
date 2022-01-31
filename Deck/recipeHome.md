@@ -24,7 +24,10 @@ layout: default
 <img src="https://www.pokemon-card.com/assets/images/card_images/large/S9/040915_P_SHIEIMIVSTAR.jpg" width="240px">
 
 [シェイミVSTAR](Shaymin.md)
-  
+
+<img src="https://www.pokemon-card.com/assets/images/card_images/large/SI/040509_P_RIFUIAVMAX.jpg" width="240px">
+
+[リーフィアVMAX](Leafeon.md)
 
 ---
 
